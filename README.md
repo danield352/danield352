@@ -33,7 +33,6 @@
 ###
 
 ![danield352's Stats](https://github-readme-stats.vercel.app/api?username=danield352&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![danield352's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danield352&theme=monokai&hide_border=true)
 ![danield352's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danield352&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ###
